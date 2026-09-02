@@ -1,6 +1,4 @@
-NEW OPEN SOURCE BROWSER
+Browser
 =======================
-Is it better then Chromium?
----------------------------
-It can't do as much, but it's way smaller,<br/>
-and much easier to debug the source.<br/>
+It can do everything a browser needs to do,<br>
+and it's smaller then chromium.
